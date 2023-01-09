@@ -1,0 +1,15 @@
+C:\Projects\forloops\bin\Debug\net7.0\forloops.exe
+C:\Projects\forloops\bin\Debug\net7.0\forloops.deps.json
+C:\Projects\forloops\bin\Debug\net7.0\forloops.runtimeconfig.json
+C:\Projects\forloops\bin\Debug\net7.0\forloops.dll
+C:\Projects\forloops\bin\Debug\net7.0\forloops.pdb
+C:\Projects\forloops\obj\Debug\net7.0\forloops.csproj.AssemblyReference.cache
+C:\Projects\forloops\obj\Debug\net7.0\forloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\forloops\obj\Debug\net7.0\forloops.AssemblyInfoInputs.cache
+C:\Projects\forloops\obj\Debug\net7.0\forloops.AssemblyInfo.cs
+C:\Projects\forloops\obj\Debug\net7.0\forloops.csproj.CoreCompileInputs.cache
+C:\Projects\forloops\obj\Debug\net7.0\forloops.dll
+C:\Projects\forloops\obj\Debug\net7.0\refint\forloops.dll
+C:\Projects\forloops\obj\Debug\net7.0\forloops.pdb
+C:\Projects\forloops\obj\Debug\net7.0\forloops.genruntimeconfig.cache
+C:\Projects\forloops\obj\Debug\net7.0\ref\forloops.dll
